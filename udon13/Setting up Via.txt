@@ -1,0 +1,13 @@
+Begin by ensuring your keypad has the latest Via firmware. If you purchased your keypad in 2024 or later, it should already be Installed. If not, Install the firmware file included in the 'Firmware' folder associated with your keypad.
+
+Next, launch the Via application, which you can use either through the Web App at https://usevia.app/ or by downloading the standalone desktop app from https://github.com/the-via/releases/releases.
+
+Once Via is open:
+
+	1. Navigate to 'Settings' and toggle on the "Show Design tab" option.
+
+	2. Click on the 'Design' tab, represented by a paintbrush icon.
+
+	3. In the 'Load Draft Definitions' section, upload your {keypad}.json file from the 'Via Definitions' folder associated with your keypad.
+
+After these steps, your keypad should be ready to use with Via. However, due to some unknown bug in Via, you might also need to change the 'Render Mode' to [3D] in the settings menu to ensure optimal functionality.
