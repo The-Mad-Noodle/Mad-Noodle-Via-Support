@@ -1,3 +1,5 @@
+![Mad Noodle + QMK + Via](https://i.imgur.com/aeldbRH.png)
+
 # Mad Noodle VIA Support
 
 Welcome to the Mad Noodle VIA Support repository! This repository is your go-to resource for VIA firmware and definitions for all Mad Noodle keypads. Follow the instructions below to ensure your keypad is up-to-date and ready for customization through VIA.
@@ -40,7 +42,7 @@ In case of any difficulties, please refer to our troubleshooting guide or send a
 
 ## Support and Contact
 
-For further assistance, please reach out through our [GitHub Issues](https://github.com/The-Mad-Noodle/Mad-Noodle-Via-Support/issues) or contact support directly at our website.
+For further assistance, please reach out through our [GitHub Issues](https://github.com/The-Mad-Noodle/Mad-Noodle-Via-Support/issues) or contact support directly at our website https://www.themadnoodle.com/.
 
 Hope you love this new support we added for your Mad Noodle KeyPad!
 
