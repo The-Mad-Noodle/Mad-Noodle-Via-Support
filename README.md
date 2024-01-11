@@ -13,11 +13,12 @@ Before you begin, make sure you have:
 
 ## Firmware Update
 
-If you've purchased your keypad in 2024 or later, it should already come with the latest VIA firmware. For older models, please update your firmware:
+> [!NOTE]
+> **If you purchased your keypad in 2024 or later, it should already come with the latest VIA firmware. For older models, please update your firmware:**
 
 1. Locate the 'Firmware' folder that corresponds to your specific keypad model in this repository.
-2. Find the Via firmware .hex or .uf2 file asociated with your keypad.
-3. Install the firmware as usual, following the instructions provided on our website for your keypad model.
+2. Find the Via firmware .hex or .uf2 file associated with your keypad.
+3. Install the firmware as usual, following the flashing instructions provided on [The Mad Noodle Flashing Guide](https://github.com/The-Mad-Noodle/QMK-Mad-Noodle-KeyPads/blob/main/README.md#flashing-firmware-to-your-mad-noodle-keypad) or our website for your keypad model.
 
 ## Setting Up VIA
 
