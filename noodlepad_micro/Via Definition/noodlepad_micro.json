@@ -4,6 +4,13 @@
     "productId": "0x0004",
     "keycodes": ["qmk_lighting"],
     "menus": ["qmk_rgblight"],
+    "customKeycodes": [
+        {
+            "name": "rgb_ind",
+            "title": "Layer Indicators",
+            "description": "Change the layer indicator",
+            "command": "RGB_IND"
+        }],
     "matrix": {
         "rows": 3,
         "cols": 3
