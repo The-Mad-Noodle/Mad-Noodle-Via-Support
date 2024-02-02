@@ -37,6 +37,28 @@ Once you have VIA open:
 
 Your keypad should now be fully functional with VIA. If you encounter any issues, try changing the 'Render Mode' to `3D` in the settings menu.
 
+## Enhanced Keycodes and Features for Mad Noodle Keypads
+
+Some Mad Noodle Keypads come equipped with specialized keycodes and features designed to enhance your experience. Below are the details of these unique functionalities:
+
+### Layer Change Indicators
+When switching between layers, the keypad offers visual feedback through its RGB backlighting system:
+- **Default Setting**: The RGB backlight blinks to indicate a layer change, with distinct colors assigned to each layer:
+  - Layer 0: White
+  - Layer 1: Red
+  - Layer 2: Green
+  - Layer 3: Blue
+- **Alternative Option**: Choose to have one of the four LEDs maintain a constant white light, correlating to the active layer.
+
+To switch between these visual feedback options, use the keycode found in the "Custom" section labeled "RGB Layer Mode".
+
+### Keycode for Layer Cycling
+With a tap on this custom keycode, you can cycle through the layers in sequence, from Layer 0 to Layer 3.
+
+This feature is accessible in the "Custom" section under the label "Cycle Layers".
+
+**Important Reminder**: For consistent performance, ensure that this custom keycode is assigned to the same key across all layers.
+
 ## Troubleshooting
 
 In case of any difficulties, please refer to our troubleshooting guide or send an email to Jesse@themadnoodle.com.
