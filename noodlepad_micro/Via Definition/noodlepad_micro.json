@@ -6,9 +6,14 @@
     "menus": ["qmk_rgblight"],
     "customKeycodes": [
         {
-            "name": "Layer_Indicator",
-            "title": "Change the Layer Indicator Mode",
-            "shortName": "RGB_IND"
+            "name": "RGB Layer Mode",
+            "title": "Toggle the RGB Layer Indicator Mode (Mode1: Blink White=0, Red=1, Green=2, Blue=3) / (Mode2: One LED lit white according to current layer)",
+            "shortName": "L_IND"
+        },
+        {
+            "name": "Cycle Layers",
+            "title": "Cycle through the layers",
+            "shortName": "L_CYC"
         }
     ],
     "matrix": {
