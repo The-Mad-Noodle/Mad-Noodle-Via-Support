@@ -42,7 +42,7 @@ Your keypad should now be fully functional with VIA. If you encounter any issues
 Some Mad Noodle Keypads come equipped with specialized keycodes and features designed to enhance your experience. Below are the details of these unique functionalities:
 
 ### Layer Change Indicators
-When switching between layers, the keypad offers visual feedback through its RGB backlighting system:
+When switching between layers, the keypad offers visual feedback through its RGB backlighting:
 - **Default Setting**: The RGB backlight blinks to indicate a layer change, with distinct colors assigned to each layer:
   - Layer 0: White
   - Layer 1: Red
