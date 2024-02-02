@@ -12,7 +12,7 @@
         },
         {
             "name": "Cycle Layers",
-            "title": "Cycle through the layers",
+            "title": "Cycle through the layers (Place on same key on all layers)",
             "shortName": "L_CYC"
         }
     ],
