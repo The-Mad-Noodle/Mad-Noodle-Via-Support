@@ -9,16 +9,17 @@ Welcome to the Mad Noodle VIA Support repository! This repository is your go-to 
 Before you begin, make sure you have:
 - A Mad Noodle keypad
 - A USB cable to connect your keypad to your computer
-- The files downloaded from this repository
+- The latest files downloaded from this repository by clicking this link: [ZIP Download](https://github.com/The-Mad-Noodle/Mad-Noodle-Via-Support/archive/refs/heads/main.zip)
 
 ## Firmware Update
 
 > [!NOTE]
 > **If you purchased your keypad in 2024 or later, it should already come with the latest VIA firmware. For older models, please update your firmware:**
 
-1. Locate the 'Firmware' folder that corresponds to your specific keypad model in this repository.
-2. Find the Via firmware .hex or .uf2 file associated with your keypad.
-3. Install the firmware as usual, following the flashing instructions provided on [The Mad Noodle Flashing Guide](https://github.com/The-Mad-Noodle/QMK-Mad-Noodle-KeyPads/blob/main/README.md#flashing-firmware-to-your-mad-noodle-keypad) or our website for your keypad model.
+1. Extract and open the file downloaded from the step above.
+2. Locate the 'Firmware' folder that corresponds to your specific keypad model.
+3. Find the Via firmware .hex or .uf2 file associated with your keypad.
+4. Install the firmware as usual, following the flashing instructions provided on [The Mad Noodle Flashing Guide](https://github.com/The-Mad-Noodle/QMK-Mad-Noodle-KeyPads/blob/main/README.md#flashing-firmware-to-your-mad-noodle-keypad) or our website for your keypad model.
 
 ## Setting Up VIA
 
@@ -31,11 +32,16 @@ You can configure your keypad using the VIA application, which is available as a
 
 Once you have VIA open:
 
-1. Go to 'Settings' and enable the "Show Design tab" option.
+1. Go to 'Settings' and enable the "Show Design tab" option. If promted click 'Confirm'.
 2. Select the 'Design' tab, indicated by a paintbrush icon.
-3. Under 'Load Draft Definitions', upload your `{keypad}.json` file from the 'Via Definitions' folder in this repository that corresponds to your specific keypad model.
+3. Under 'Load Draft Definitions', upload your `{keypad}.json` file from the 'Via Definitions' folder that corresponds to your specific keypad model.
 
-Your keypad should now be fully functional with VIA. If you encounter any issues, try changing the 'Render Mode' to `3D` in the settings menu.
+Return back to the "Configure" tab and now your keypad should now be fully functional with VIA. 
+If you encounter any issues, try changing the 'Render Mode' to `3D` in the settings menu.
+
+**Start Editing your Keymap:**
+1. Select the key you'd like to remap on virtual keypad. It will be highlighted red when ready to be assigned a new keycode.
+2. From the selection of keycodes on the bottom portion of the Via window, select the desired keycode you would likee to assign. 
 
 ## Enhanced Keycodes and Features for Mad Noodle Keypads
 
