@@ -1,7 +1,7 @@
 {
     "name": "Udon:13",
     "vendorId": "0x6A6C",
-    "productId": "0x0012",
+    "productId": "0x0013",
     "keycodes": ["qmk_lighting"],
     "menus": ["qmk_rgblight"],
     "customKeycodes": [
