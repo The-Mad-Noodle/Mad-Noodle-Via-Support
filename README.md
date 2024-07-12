@@ -4,6 +4,8 @@
 
 Welcome to the Mad Noodle VIA Support repository! This repository is your go-to resource for VIA firmware and definitions for all Mad Noodle keypads. Follow the instructions below to ensure your keypad is up-to-date and ready for customization through VIA.
 
+###### *You can also check out this really crude but effective video I threw together for setting up VIA on your Mad Noodle Keypad:* [VIA Setup Guide Video](https://www.youtube.com/watch?v=OUcn4Q_MVhA&ab_channel=TheMadNoodle)
+
 ## Getting Started
 
 Before you begin, make sure you have:
